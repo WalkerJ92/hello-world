@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T16:18:13.743Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="-kbL1bI_TfC7KCDEotbH" version="17.4.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-25T16:28:42.698Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="zIIvSgwv1O5zujFJPtdx" version="17.4.3" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Account Management">
-    <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -171,7 +171,9 @@
           <mxGeometry x="380" y="300" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rNsURYrwMeXFZARxuO2e-7" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rNsURYrwMeXFZARxuO2e-4" target="rNsURYrwMeXFZARxuO2e-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.75" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rNsURYrwMeXFZARxuO2e-8" value="Import billable flows" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="190" y="420" width="120" height="60" as="geometry" />
@@ -181,10 +183,10 @@
             <mxPoint x="250" y="590" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rNsURYrwMeXFZARxuO2e-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rNsURYrwMeXFZARxuO2e-12" target="rNsURYrwMeXFZARxuO2e-15">
+        <mxCell id="rNsURYrwMeXFZARxuO2e-16" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rNsURYrwMeXFZARxuO2e-12" target="rNsURYrwMeXFZARxuO2e-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rNsURYrwMeXFZARxuO2e-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rNsURYrwMeXFZARxuO2e-12" target="rNsURYrwMeXFZARxuO2e-14">
+        <mxCell id="rNsURYrwMeXFZARxuO2e-19" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rNsURYrwMeXFZARxuO2e-12" target="rNsURYrwMeXFZARxuO2e-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rNsURYrwMeXFZARxuO2e-12" value="Pre-checks pass?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -196,11 +198,22 @@
         <mxCell id="rNsURYrwMeXFZARxuO2e-14" value="Troubleshoot issues" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="540" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rNsURYrwMeXFZARxuO2e-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rNsURYrwMeXFZARxuO2e-15" target="rNsURYrwMeXFZARxuO2e-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rNsURYrwMeXFZARxuO2e-15" value="Raise invoice" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="190" y="670" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rNsURYrwMeXFZARxuO2e-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rNsURYrwMeXFZARxuO2e-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rNsURYrwMeXFZARxuO2e-17" value="Raise invoice" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rNsURYrwMeXFZARxuO2e-21" value="Post-checks pass?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="780" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -210,6 +223,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KyJIQ5GeltH3-QZqU6Zx-1" value="&lt;h1&gt;&lt;span&gt;Notes&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 20px ; font-weight: normal&quot;&gt;1. This is based on a list of post-invoice raising checks; new invoice, terminated client invoice, special instructions invoice, invoice value outside of variation tolerance, market value outside of variation tolerance, fee scale changed, 0 value invoice, manual adjustment invoice&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="30" y="850" width="820" height="250" as="geometry" />
+        </mxCell>
         <mxCell id="M8DtZ_9FZ8yo6eQdrnvs-1" value="Invoice Approval Process" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="30" y="21" width="310" height="75" as="geometry" />
         </mxCell>
@@ -227,8 +243,8 @@
             <mxPoint x="290" y="330" as="targetPoint" />
             <Array as="points">
               <mxPoint x="550" y="230" />
-              <mxPoint x="550" y="770" />
-              <mxPoint x="420" y="770" />
+              <mxPoint x="550" y="750" />
+              <mxPoint x="420" y="750" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -241,7 +257,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uNLyOuiYH_Nmkq4ZFmDb-1" value="Auto-approve Invoice" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="uNLyOuiYH_Nmkq4ZFmDb-1" value="Auto-approve invoice&lt;sup&gt;1&lt;/sup&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="380" y="190" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RP2VzkniKSbY8dlH50Fr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2QCUqepJv5n2DgyOBPnq-2" target="pytakPL9KS4OJ0LXtcVA-2">
@@ -251,7 +267,7 @@
           <mxGeometry x="194" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pytakPL9KS4OJ0LXtcVA-1" value="Invoice ready to send" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="370" y="860" width="100" height="60" as="geometry" />
+          <mxGeometry x="370" y="790" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RP2VzkniKSbY8dlH50Fr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pytakPL9KS4OJ0LXtcVA-2" target="RP2VzkniKSbY8dlH50Fr-1">
           <mxGeometry relative="1" as="geometry" />
@@ -276,8 +292,8 @@
         <mxCell id="RP2VzkniKSbY8dlH50Fr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RP2VzkniKSbY8dlH50Fr-2" target="pytakPL9KS4OJ0LXtcVA-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="124" y="770" />
-              <mxPoint x="420" y="770" />
+              <mxPoint x="124" y="750" />
+              <mxPoint x="420" y="750" />
             </Array>
           </mxGeometry>
         </mxCell>
