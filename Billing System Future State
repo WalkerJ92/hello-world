@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T10:46:56.723Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="h1UX320wffI0wgTz1rl_" version="17.4.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-26T10:49:35.316Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="wxJIFmyvpcpioWqvjdCP" version="17.4.3" type="github" pages="6">
   <diagram id="MmuRRoW_zVbylxDlDazu" name="To-Be Invoice Process">
     <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nYvmq3O03ug3lwVwwZT4-2" value="Manage account details" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
