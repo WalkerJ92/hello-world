@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T09:44:48.854Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="yEcy37wU0Y5TUp3R6mpS" version="17.4.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-04-26T10:36:57.333Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="futQX6HFkgiOMnEh-MZD" version="17.4.3" type="github" pages="6">
   <diagram id="MmuRRoW_zVbylxDlDazu" name="To-Be Invoice Process">
     <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -456,6 +456,12 @@
         </mxCell>
         <mxCell id="5n-gTCWIg4HPrLGdyt8S-2" value="All invoices distributed?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FL1WEqd_BcukO3wDHtjg-1" value="Invoice Distribution Process" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="30" y="21" width="310" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="FL1WEqd_BcukO3wDHtjg-2" value="Role: Invoice Approver" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="84" width="190" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
